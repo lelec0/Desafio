@@ -12,7 +12,7 @@ Líder global em consultoria, serviços de tecnologia e transformação digital,
 A linguagem ultilizada foi JavaScript, para syntax e para os testes unitários foi ultilizada a biblioteca Jest, assim como também foi ultilizado o eslint para um código condizente com as boas práticas do mercado.
 
 # 📝 Requisito 1
-
+https://github.com/lelec0/Desafio/blob/3f7b7c5de895a6a1538a104552de3cee688d591a/src/anagramsChallenger.js
 A impressão do requisito 1 se da por meio do console.log através do terminal do editor de código, editor usado neste projeto foi o vscode, e o mesmo também tem como retorno 1 array para ser usado nos testes unitários. 
 
 # 📝 Requisito 2

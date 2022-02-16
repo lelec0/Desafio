@@ -11,14 +11,14 @@ Líder global em consultoria, serviços de tecnologia e transformação digital,
 
 A linguagem ultilizada foi JavaScript, para syntax e para os testes unitários foi ultilizada a biblioteca Jest, assim como também foi ultilizado o eslint para um código condizente com as boas práticas do mercado.
 
-# 📝 Requisito 1
-https://github.com/lelec0/Desafio/blob/3f7b7c5de895a6a1538a104552de3cee688d591a/src/anagramsChallenger.js
+# [📝 Requisito 1](https://github.com/lelec0/Desafio/blob/6f2f9bfe0aaf6aa88a3cbd536d861887763b3291/src/starLadder.js)
+
 A impressão do requisito 1 se da por meio do console.log através do terminal do editor de código, editor usado neste projeto foi o vscode, e o mesmo também tem como retorno 1 array para ser usado nos testes unitários. 
 
-# 📝 Requisito 2
+# [📝 Requisito 2](https://github.com/lelec0/Desafio/blob/6f2f9bfe0aaf6aa88a3cbd536d861887763b3291/src/passwordValidation.js)
 
 No requisito 2 foi implementado a lógica do password, e as mensagens de error de acordo com a situação.
 
-# 📝 Requisito 3
+# [📝 Requisito 3](https://github.com/lelec0/Desafio/blob/3f7b7c5de895a6a1538a104552de3cee688d591a/src/anagramsChallenger.js)
 
 No requisito 3 foi implementada a lógica com base nos exemplos dados no desafio.

@@ -11,6 +11,8 @@ Líder global em consultoria, serviços de tecnologia e transformação digital,
 
 A linguagem ultilizada foi JavaScript, para syntax e para os testes unitários foi ultilizada a biblioteca Jest, assim como também foi ultilizado o eslint para um código condizente com as boas práticas do mercado.
 
+Para executar os testes ao baixar o projeto execute o npm install, e para rodar os testes execute o npm test.
+
 # [📝 Requisito 1](https://github.com/lelec0/Desafio/blob/6f2f9bfe0aaf6aa88a3cbd536d861887763b3291/src/starLadder.js)
 
 A impressão do requisito 1 se da por meio do console.log através do terminal do editor de código, editor usado neste projeto foi o vscode, e o mesmo também tem como retorno 1 array para ser usado nos testes unitários. 

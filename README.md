@@ -2,16 +2,19 @@
 
 Desafio de lógica da Academia Capgemini que constitui de 3 questões, aqui chamados de requisitos.
 
-# ![image](https://user-images.githubusercontent.com/19829761/154183899-e4174121-c6bb-4fdf-b554-8e06d5f45b06.png) Sobre a Capgemini ![image](https://user-images.githubusercontent.com/19829761/154183910-22d7d65f-6b21-41c8-af9e-66e09194b825.png)
+# 🚀 Avisos 🚀
 
+1. Instalar as dependência necessárias para o projeto: npm install ou yarn install
+2. Para rodar os testes execute o npm test.
+3. Para rodar as funcoes, recomendo o uso do vscode, através da extensão code run.
+
+# ![image](https://user-images.githubusercontent.com/19829761/154183899-e4174121-c6bb-4fdf-b554-8e06d5f45b06.png) Sobre a Capgemini ![image](https://user-images.githubusercontent.com/19829761/154183910-22d7d65f-6b21-41c8-af9e-66e09194b825.png)
 
 Líder global em consultoria, serviços de tecnologia e transformação digital, a Capgemini está na vanguarda da inovação para abordar toda a gama de oportunidades dos clientes no mundo em evolução de nuvem, digital e plataformas, com mais de 270 mil profissionais, a Capgemini está presente em quase 50 países.
 
 # 💻 Sobre Projeto 💻
 
 A linguagem ultilizada foi JavaScript, para syntax e para os testes unitários foi ultilizada a biblioteca Jest, assim como também foi ultilizado o eslint para um código condizente com as boas práticas do mercado.
-
-Para executar os testes ao baixar o projeto execute o npm install, e para rodar os testes execute o npm test.
 
 # [📝 Requisito 1](https://github.com/lelec0/Desafio/blob/6f2f9bfe0aaf6aa88a3cbd536d861887763b3291/src/starLadder.js)
 
